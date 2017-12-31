@@ -79,3 +79,17 @@ google 开源的深度学习框架，可以在windows,macos,linux,Android平台�
 [opencv 开发教程](https://github.com/makelove/OpenCV-Python-Tutorial)
 
 [opencv python 开发文档](https://docs.opencv.org/3.3.0/d6/d00/tutorial_py_root.html)
+
+### dlib
+基于深度学习的人脸探测，人脸特征点探测工具包。易于使用。
+使用 pip 安装。
+
+#### 可参考项目
+
+[添加圣诞帽](https://github.com/weiuniverse/add_chrismas_hat)
+
+### [face_recognition](https://github.com/ageitgey/face_recognition)
+简单的人脸识别库.可使用pip 安装。
+
+#### 可参考项目
+[facetimes](https://github.com/weiuniverse/facetimes/blob/master/project/face_detection_v3.py)
