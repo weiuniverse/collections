@@ -1,6 +1,6 @@
 # 学习资源收集
 ## 通用工具以及网站
-[实用工具及网站](https://github.com/weiuniverse/collections/useful_websites_tools.md)
+[实用工具及网站](https://github.com/weiuniverse/collections/blob/master/useful_websites_tools.md)
 
 [有趣的工具]()
 
@@ -12,3 +12,5 @@
 [学习资源](https://github.com/weiuniverse/collections/blob/master/courses.md): courses.md
 
 [工具](https://github.com/weiuniverse/collections/blob/master/tools.md):tools.md
+
+[文章推荐](https://github.com/weiuniverse/collections/blob/master/articles.md)
