@@ -27,7 +27,7 @@ Computer Vision: Foundations and Applications
 Convolutional Neural Networks for Visual Recognition
 
 ## 自然语言处理
-###[cse224 Stanford](http://web.stanford.edu/class/cs224n/)
+### [cse224 Stanford](http://web.stanford.edu/class/cs224n/)
 Natural Language Processing with Deep Learning
 
 ## 计算机基础知识
