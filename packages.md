@@ -1,7 +1,7 @@
 # packages_collection
 packages of python,  computer vision, machine learning, deep learning and others
 
-## 常用工具
+## 通用工具
 ### [Anaconda](https://anaconda.org/)
 Python 科学计算包，包含 numpy,scipy,matplotlib,jupyter notebook 等python科学计算的常用工具。
 #### conda
@@ -29,6 +29,16 @@ Jupyter Notebook是一个交互式笔记本，支持运行 40 多种编程语言
 
 [Jupyter Notebook 快速入门下](http://codingpy.com/article/getting-started-with-jupyter-notebook-part-2/)
 
+## 数据科学常用工具包
+### numpy
+[numpy 入门](http://codingpy.com/article/an-introduction-to-numpy/)
+
+### matplotlib
+[十分钟入门matplotlib](http://codingpy.com/article/a-quick-intro-to-matplotlib/)
+
+### pandas
+[十分钟入门pandas](http://codingpy.com/article/a-quick-intro-to-pandas/)
+
 ## 机器学习工具包
 ### [sklearn](http://sklearn.lzjqsdd.com/index.html)
 机器学习工具包，包含数据预处理功能，并且集合了常用的机器学习方法，如 pca,svm,adaboost 等。
@@ -41,6 +51,7 @@ Jupyter Notebook是一个交互式笔记本，支持运行 40 多种编程语言
 
 ### [LightGBM](https://github.com/Microsoft/LightGBM)
 由微软开发的集成学习包
+
 
 ## 深度学习
 ### [tensorflow](https://www.tensorflow.org/get_started/)
