@@ -22,7 +22,8 @@ Theories of Deep Learning
 ## 计算机视觉
 ### [cs131 Stanford](http://vision.stanford.edu/teaching/cs131_fall1718/)
 Computer Vision: Foundations and Applications
-
+### [cs231a Stanford](http://web.stanford.edu/class/cs231a/)
+CS231A: Computer Vision, From 3D Reconstruction to Recognition
 ### [cs231n Stanford](http://cs231n.stanford.edu/)
 Convolutional Neural Networks for Visual Recognition
 
